@@ -1,0 +1,4 @@
+env: "local"   #local, dev, prod
+StoragePath: "/path/to/storage/file.db"
+TiPath: "/Users/bazdalaz/data/Aspen_Works/TI"
+TdcPath: "/Users/bazdalaz/data/Aspen_Works/TDC/"

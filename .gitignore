@@ -89,3 +89,9 @@ go.work
 
 # Sensitive files and secrets
 .env
+.env.local
+local.yaml
+
+# Compiled binaries
+
+bin/
