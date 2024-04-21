@@ -90,14 +90,10 @@ go.work
 # Sensitive files and secrets
 .env
 .env.local
-local.yaml
-./config/local.yaml
 internal/config/local.yaml
+
 
 # Compiled binaries
 
 bin/
 
-
-
-y
