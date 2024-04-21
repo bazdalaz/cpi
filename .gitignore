@@ -92,7 +92,7 @@ go.work
 .env.local
 local.yaml
 ./config/local.yaml
-./internal/config/local.yaml
+internal/config/local.yaml
 
 # Compiled binaries
 
@@ -100,3 +100,4 @@ bin/
 
 
 
+y
